@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-  
+
 .container{
     background-color: #3d08d1;
     border-radius: 16px;
@@ -32,11 +32,11 @@ body{
     color: #ccc;
 }
 
-#cadastroForm{
+#loginForm{
     padding: 18px;
 }
 
-#cadastroForm{
+#loginForm{
     margin-bottom: 20px;
     padding-bottom: 20px;
     background-color: aliceblue;
@@ -44,23 +44,23 @@ body{
 }
   
   
-#cadastroForm label{
+#loginForm label{
     display: inline-block;
     margin-bottom: 7px;
 }
 
-#cadastroForm input{
+#loginForm input{
     display: block;
     width: 100%;
     padding: 8px;
 }
 
 
-#cadastroForm label{
+#loginForm label{
   margin: 8px;
 }
 
-#cadastroForm button{
+#loginForm button{
     background-color:blue;
     color: white;
     font-size: 40px;
@@ -70,7 +70,6 @@ body{
     border: 0px;
     cursor: pointer;
 }
-  
 
 .error-message {
     color: red;
