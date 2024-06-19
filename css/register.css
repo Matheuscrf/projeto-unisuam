@@ -3,11 +3,11 @@
     margin: 0;
     padding: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: black;
+    color: black;
 }
   
 body{
-    background: #ccc;
+    background:  #f8f8f8;
     width: 100%; 
     min-height: 100vh;
     display: flex;
@@ -16,7 +16,7 @@ body{
 }
   
 .container{
-    background-color: #3d08d1;
+    background-color: #003366;
     border-radius: 16px;
     margin: 5px 16px 5px 16px;
     max-width: 600px;
@@ -27,8 +27,8 @@ body{
 
 .container h1 {
     text-align: center;
-    padding-bottom: 5px;
-    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     color: #ccc;
 }
 
@@ -39,7 +39,7 @@ body{
 #cadastroForm{
     margin-bottom: 20px;
     padding-bottom: 20px;
-    background-color: aliceblue;
+    background-color: #ccc;
     position: relative;
 }
   
